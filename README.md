@@ -4,9 +4,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-public/screenshot.png
-
-/home/alicia/Documents/Next.js/react-task-tacker/public/screenshot.png
+<img width="650px" src="/public/screenshot.png">
 
 ## Available Scripts
 
