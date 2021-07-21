@@ -4,7 +4,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="650px" src="/public/screenshot.png">
+<img width="550px" src="/public/screenshot.png">
 
 ## Available Scripts
 
